@@ -16,7 +16,7 @@ I'm currently a senior undergraduate student at **Tongji University**, and I'm e
 - I was a fully‑funded visiting student at the **National University of Singapore**, and I had a wonderful time there.
 
 📫 How to reach me: Here are some useful links
-- Personal homepage: https://htyang.org/
+- Personal homepage: https://genglinxs.github.io
 - Google Scholar: https://scholar.google.com/citations?user=gf4ecNcAAAAJ&hl=zh‑CN
 - ResearchGate: https://www.researchgate.net/profile/Haotian‑Yang‑21
 - Email: genglinxs_0319@163.com (private); 2251581@tongji.edu.cn (education)
