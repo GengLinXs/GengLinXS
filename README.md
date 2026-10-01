@@ -7,7 +7,7 @@ I'm currently a senior undergraduate student at **Tongji University**, and I'm e
 🔭 My research focuses on **numerical modeling, simulation, and optimization for rechargeable‑ion batteries and energy storage systems**, including:
 - Thermal runaway of Ni‑rich batteries and battery packs (one of my Ph.D. topics)
 - Dry‑processed / ultra‑thick electrodes and reaction kinetics (my primary works at Tongji University)
-- Phase‑field / FEM / LBM‑DEM multiscale simulation (I collaborate with some great minds at Tsinghua University and National University of Singapore on these topics)
+- Phase‑field / FEM / LBM‑DEM multiscale simulation (I collaborated with some great minds at Tsinghua University and National University of Singapore on these topics)
 - AI for energy (I'm highly interested in it and open to any kind of collaboration)
 
 ⚡ Fun fact:
@@ -23,7 +23,7 @@ I'm currently a senior undergraduate student at **Tongji University**, and I'm e
 
 🤔 I’m looking for help with:
 - How to better link cutting‑edge AI tech with numerical simulations for energy studies
-- Any good draft beer in Beijing or Shanghai?
+- Any good draft beer or craft beer in Beijing or Shanghai?
 
 💬 Ask me about:
 Anything I might be able to help with.
