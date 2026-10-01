@@ -26,6 +26,6 @@ I'm currently a senior undergraduate student at **Tongji University**, and I'm e
 - Any good draft beer or craft beer in Beijing or Shanghai?
 
 💬 Ask me about:
-Anything I might be able to help with.
+- Anything I might be able to help with.
 
 
